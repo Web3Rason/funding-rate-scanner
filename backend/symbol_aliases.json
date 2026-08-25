@@ -1,0 +1,191 @@
+{
+  "_comment": "幣種別名對照表。aliases = 全域別名（任何交易所都適用），exchange_aliases = 僅特定交易所適用。命名以 Binance 為準。",
+  "aliases": {
+    "PLTRX": "PLTR",
+    "TSTBSC": "TST",
+    "XTI": "CL",
+    "USOIL": "CL",
+    "WTI": "CL",
+    "OILWTI": "CL",
+    "XBR": "BZ",
+    "UKOIL": "BZ",
+    "BCO": "BZ",
+    "BRN": "BZ",
+    "BRENTOIL": "BZ",
+    "OILBRENT": "BZ",
+    "BRENT": "BZ",
+    "XAU": "GOLD",
+    "XAUUSD": "GOLD",
+    "XAG": "SILVER",
+    "XAGUSD": "SILVER",
+    "NATGAS": "NG",
+    "NATURALGAS": "NG",
+    "XCU": "COPPER",
+    "HG": "COPPER",
+    "PALLADIUM": "XPD",
+    "PLATINUM": "XPT",
+    "ALUMINUM": "XAL",
+    "ALUMINIUM": "XAL"
+  },
+  "exchange_aliases": {
+    "aster": {
+      "FUN": "SPORTFUN"
+    },
+    "hyperliquid": {
+      "GAS": "NG"
+    },
+    "gateio": {
+      "FUN": "SPORTFUN",
+      "RTX": "RTX_GATE",
+      "EDGE": "EDGE_GATE",
+      "EDGEX": "EDGE",
+      "AAPLX": "AAPL",
+      "AMZNX": "AMZN",
+      "COINX": "COIN",
+      "CRCLX": "CRCL",
+      "GOOGLX": "GOOGL",
+      "HOODX": "HOOD",
+      "METAX": "META",
+      "MSTRX": "MSTR",
+      "NVDAX": "NVDA",
+      "ORCLX": "ORCL",
+      "QQQX": "QQQ",
+      "SPYX": "SPY",
+      "TSLAX": "TSLA",
+      "TQQQX": "TQQQ",
+      "FUTUON": "FUTU",
+      "RDDTON": "RDDT",
+      "JDON": "JD"
+    },
+    "mexc": {
+      "CATSTOCK": "CAT_EQ",
+      "CVXSTOCK": "CVX_EQ",
+      "CSTOCK": "C_EQ",
+      "STXSTOCK": "STX_EQ",
+      "QNTSTOCK": "QNTX"
+    },
+    "bitget": {
+      "FUN": "SPORTFUN",
+      "FUNTOKEN": "FUN",
+      "STXSTOCK": "STX_EQ",
+      "QNTSTOCK": "QNTX",
+      "BEAM": "BEAMX"
+    },
+    "bingx": {
+      "FUNTOKEN": "FUN",
+      "NOMINA": "NOM",
+      "REDSTONE": "RED",
+      "CRCLX": "CRCL",
+      "AAPLX": "AAPL",
+      "METAX": "META",
+      "NVDAX": "NVDA",
+      "EDGEX": "EDGE",
+      "NCSKTSMU2USD": "TSM",
+      "NCSKQNT2USD": "QNTX",
+      "PLAYSOUT": "PLAY",
+      "BEAM": "BEAMX"
+    },
+    "bybit": {
+      "PLAYSOUT": "PLAY",
+      "BEAM": "BEAMX"
+    },
+    "kucoinfutures": {
+      "REDSTONE": "RED"
+    },
+    "tradexyz": {
+      "JPY": "JPY_XYZ",
+      "QNT": "QNTX",
+      "SKHX": "SKHYNIX"
+    },
+    "htx": {
+      "USOIL": "CL",
+      "UKOIL": "BZ"
+    },
+    "ourbit": {
+      "EDGEX": "EDGE",
+      "USO": "CL",
+      "KOX": "KO",
+      "GMEX": "GME",
+      "WENX": "WEN",
+      "SOXSX": "SOXS",
+      "BEAM": "BEAMX"
+    },
+    "okx": {
+      "AI": "AIGENSYN",
+      "QNT": "QNTX"
+    },
+    "bitmart": {
+      "AI": "AIGENSYN",
+      "AAPLX": "AAPL",
+      "AMZNX": "AMZN",
+      "COINX": "COIN",
+      "CRCLX": "CRCL",
+      "GOOGLX": "GOOGL",
+      "HOODX": "HOOD",
+      "METAX": "META",
+      "MSTRX": "MSTR",
+      "NVDAX": "NVDA",
+      "ORCLX": "ORCL",
+      "QQQX": "QQQ",
+      "SPYX": "SPY",
+      "TSLAX": "TSLA",
+      "TQQQX": "TQQQ",
+      "ABBVON": "ABBV",
+      "ACNON": "ACN",
+      "ALBON": "ALB",
+      "AMATON": "AMAT",
+      "ASTSON": "ASTS",
+      "BMNRON": "BMNR",
+      "CEGON": "CEG",
+      "CRWDON": "CRWD",
+      "CSCOON": "CSCO",
+      "CVNAON": "CVNA",
+      "GEVON": "GEV",
+      "IBMON": "IBM",
+      "INDAON": "INDA",
+      "IRENON": "IREN",
+      "IWMON": "IWM",
+      "KLACON": "KLAC",
+      "LINON": "LIN",
+      "NBISON": "NBIS",
+      "PANWON": "PANW",
+      "PDDON": "PDD",
+      "PYPLON": "PYPL",
+      "RIVNON": "RIVN",
+      "SHOPON": "SHOP",
+      "SNOWON": "SNOW",
+      "SPOTON": "SPOT",
+      "STXON": "STX_EQ",
+      "TSMON": "TSM",
+      "VRTON": "VRT",
+      "WDCON": "WDC",
+      "WFCON": "WFC"
+    },
+    "kraken": {
+      "AAPLX": "AAPL",
+      "AMZNX": "AMZN",
+      "ANTHROPICX": "ANTHROPIC",
+      "COINX": "COIN",
+      "CRCLX": "CRCL",
+      "GLDX": "GLD",
+      "GOOGLX": "GOOGL",
+      "HOODX": "HOOD",
+      "METAX": "META",
+      "MSTRX": "MSTR",
+      "NVDAX": "NVDA",
+      "OPENAIX": "OPENAI",
+      "QQQX": "QQQ",
+      "SPCXX": "SPCX",
+      "SPYX": "SPY",
+      "TSLAX": "TSLA"
+    },
+    "binance": {
+      "DODOX": "DODO"
+    },
+    "lbank": {
+      "TSMON": "TSM",
+      "IRENON": "IREN",
+      "EDGEX": "EDGE"
+    }
+  }
+}

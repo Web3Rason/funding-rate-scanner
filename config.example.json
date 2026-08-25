@@ -1,0 +1,56 @@
+{
+  "scan_interval": 300,
+  "min_annual_diff": 10.0,
+  "exchanges": [
+    "binance",
+    "bybit",
+    "okx",
+    "bitget",
+    "mexc",
+    "gateio",
+    "bingx",
+    "kucoinfutures",
+    "aster",
+    "coinw",
+    "hyperliquid"
+  ],
+  "bybit_vip_level": "VIP-1",
+  "bybit_api": {
+    "apiKey": "",
+    "secret": ""
+  },
+  "okx_api": {
+    "apiKey": "",
+    "secret": "",
+    "password": ""
+  },
+  "bingx_api": {
+    "apiKey": "",
+    "secret": ""
+  },
+  "mexc_api": {
+    "apiKey": "",
+    "secret": ""
+  },
+  "binance_api": {
+    "apiKey": "",
+    "secret": ""
+  },
+  "aster_api": {
+    "apiKey": "",
+    "secret": ""
+  },
+  "bitget_api": {
+    "apiKey": "",
+    "secret": "",
+    "passphrase": ""
+  },
+  "gateio_api": {
+    "apiKey": "",
+    "secret": ""
+  },
+  "crossex_api": {
+    "apiKey": "",
+    "secret": ""
+  }
+}

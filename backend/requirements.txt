@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ccxt>=4.5.0
+aiohttp
+pydantic>=2.0
+websockets
+curl_cffi  # Gate 網頁 API 需瀏覽器 TLS 指紋繞過 Akamai，取指數成分真實權重

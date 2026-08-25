@@ -1,0 +1,7 @@
+{
+  "_comment": "手動標記即將下架的合約。exchange 用小寫，symbol 用 BASE/USDT:USDT 格式，date 格式 YYYY-MM-DD（選填，留空則無限期標記）",
+  "overrides": [
+    {"exchange": "gateio", "symbol": "SNOWBALL/USDT:USDT", "date": "2026-03-27", "note": "Gate.io 公告 3/27 下架"},
+    {"exchange": "aster", "symbol": "RLS/USDT:USDT", "note": "Aster 公告下架"}
+  ]
+}
